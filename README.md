@@ -8,7 +8,7 @@
 ![Notwork Graph](NetworkGraph.png)
 
 このリポジトリをforkした後、あなたのmainブランチをfeature/修正 ブランチと同じ状態にした後、
-あなたのmainブランチから、この（tpu-game-2021/comp2_3_branchの）mainブランチにプルリクエストを出してください。
+あなたのmainブランチから、この（tpu-game-2021/comp2_4_branchの）mainブランチにプルリクエストを出してください。
 
 # 進め方
 * 本リポジトリをforkしてください
