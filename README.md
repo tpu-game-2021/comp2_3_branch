@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 このブランチはfeature/修正 ブランチです
 >>>>>>> origin/feature/修正
+
+このブランチはfeature/修正 ブランチです
+
+>>>>>>> 269006d8cbe0fe6acce574df97fa1d9936fd8c2b
 
 # コンフリクトの解消
 コンピュータ概論II の課題です。
